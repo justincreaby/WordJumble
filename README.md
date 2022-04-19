@@ -1,4 +1,4 @@
-Built Robotics: Software Engineering Challenge
+Software Engineering Challenge
 ==============================================
 Run It
 -----------
