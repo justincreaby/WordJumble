@@ -1,7 +1,5 @@
 
-# from getopt import getopt
 import sys
-# import keyword
 from itertools import permutations
 
 def load_word_file(fileName: str) -> str:
@@ -56,10 +54,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-    # try:
-    #     opts, args = getopt.getopt(sys.argv, "hi:o:", ["ifile=","ofile="])
-    # except getopt.GetoptError:
-    #     print ('python3 jumble_solver.py -i <corncob_lowercase.txt> -w <word>')
-    #     sys.exit(2)
